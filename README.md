@@ -100,3 +100,28 @@ git commit -m "Upload: 이름 / 날짜 / [플랫폼_문제제목_문제번호] /
 
 ---
   
+<br/>
+
+### 📅 일정표
+
+| Index | 기간 | 알고리즘 분류 | 문제 링크 |
+| :---: | :--------------------: | :----------: | :----------: |
+| 1 | 2024.07.00 ~ 2024.00.00 | 삼성 SW 역랑테스트 대비 | [SWEA 암호문 1](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&problemLevel=3&problemLevel=4&contestProbId=AV14w-rKAHACFAYD&categoryId=AV14w-rKAHACFAYD&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=5) , [SWEA N-Queen](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&problemLevel=3&problemLevel=4&contestProbId=AV7GKs06AU0DFAXB&categoryId=AV7GKs06AU0DFAXB&categoryType=CODE&problemTitle=n-queen&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1),<br> [SWEA 파스칼의 삼각형](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&problemLevel=3&problemLevel=4&contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE&problemTitle=%ED%8C%8C%EC%8A%A4%EC%B9%BC&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1)
+| 2 | 2024.00.00 ~ 2024.00.00 | 삼성 SW 역랑테스트 대비 | [BOJ 뱀](https://www.acmicpc.net/problem/3190) , [BOJ 로봇 청소기](https://www.acmicpc.net/problem/14503),<br> [BOJ 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
+| 3 | 2024.00.00 ~ 2024.00.00 | 삼성 SW 역랑테스트 대비 | [BOJ 주사위 굴리기](https://www.acmicpc.net/problem/14499), [BOJ 경사로](https://www.acmicpc.net/problem/14890), [BOJ 드래곤 커브](https://www.acmicpc.net/problem/15685)
+| 4 | 2024.00.00 ~ 2024.00.00 | 삼성 SW 역랑테스트 대비 | [BOJ 톱니바퀴](https://www.acmicpc.net/problem/14891), [BOJ 감시](https://www.acmicpc.net/problem/15683), [BOJ 아기상어](https://www.acmicpc.net/problem/16236)
+| 5 | 2024.00.00 ~ 2024.00.00 | 삼성 SW 역랑테스트 대비 | [SWEA 숫자만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH&categoryId=AWIeRZV6kBUDFAVH&categoryType=CODE&problemTitle=%EC%88%AB%EC%9E%90+%EB%A7%8C%EB%93%A4%EA%B8%B0&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1), [SWEA 핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo&categoryId=AWXRF8s6ezEDFAUo&categoryType=CODE&problemTitle=%ED%95%80%EB%B3%BC+%EA%B2%8C%EC%9E%84&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1), [SWEA 보물상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE&problemTitle=%EB%B3%B4%EB%AC%BC%EC%83%81%EC%9E%90&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+| 6 | 2024.00.00 ~ 2024.00.00 | 2024년 9차 Softeer 정기 역량 진단 대비 | [소프티어 성적 평가](https://softeer.ai/practice/6250) , [소프티어 플레이페어 암호](https://softeer.ai/practice/6255)
+| 7 | 2024.00.00 ~ 2024.00.00 | 2024년 상반기 공채 자기소개서 작성 | 
+| 8 | 2024.00.00 ~ 2024.00.00 | 2024년 9차 Softeer 정기 역량 진단 대비 | [소프티어 염기서열 커버](https://softeer.ai/practice/6249) , [소프티어 로봇이 지나간 경로](https://softeer.ai/practice/6275), [소프티어 출퇴근 길](https://softeer.ai/practice/6248)
+| 9 | 2024.00.00 ~ 2024.00.00 | 2024년 9차 Softeer 정기 역량 진단 대비 | [소프티어 자동차 테스트](https://softeer.ai/practice/6247) , [소프티어 순서대로 방문하기](https://softeer.ai/practice/6246), [소프티어 업무처리](https://softeer.ai/practice/6251)
+| 10 | 2024.00.00 ~ 2024.00.00 | 2024년 상반기 공채 코딩테스트 대비 | [코드트리 루돌프의 반란](https://www.codetree.ai/training-field/frequent-problems/problems/rudolph-rebellion/description?page=1&pageSize=20) , [코드트리 왕실의 기사 대결](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description?page=1&pageSize=20), [BOJ 세 용액](https://www.acmicpc.net/problem/2473)
+| 11 | 2024.00.00 ~ 2024.00.00 | 2024년 상반기 공채 코딩테스트 대비 | 각자 자율적으로 3문제 이상 진행
+| 12 | 2024.00.00 ~ 2024.00.00 | 2024년 상반기 공채 코딩테스트 대비 | [BOJ 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) , [BOJ 좋다](https://www.acmicpc.net/problem/1253), [BOJ 회전 초밥](https://www.acmicpc.net/problem/15961)
+| 13 | 2024.00.00 ~ 2024.00.00 | 2024년 상반기 공채 코딩테스트 대비 | [BOJ 줄 세우기](https://www.acmicpc.net/problem/2252) , [BOJ 타일 채우기](https://www.acmicpc.net/problem/2133), [BOJ 두 배열의 합](https://www.acmicpc.net/problem/2143)
+<br/>
+
+해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
+- https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study/blob/main/README.md
+- https://github.com/KbIt4Study/Algorithm_Study/edit/main/README.md
+- https://github.com/algoSSAFY9/SSAFY_ALGO_STUDY/edit/main/README.md
