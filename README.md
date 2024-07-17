@@ -31,14 +31,14 @@
     <td align="center"><a href="https://github.com/reasonyi"><img src="https://avatars.githubusercontent.com/u/66377159?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/kro46"><img src="https://avatars.githubusercontent.com/u/93969720?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/chanu2"><img src="https://avatars.githubusercontent.com/u/96942183?v=4" width="130px;" alt=""></a></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/JuHeeKim-joy"><img src="https://avatars.githubusercontent.com/u/172460819?v=4" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kimdevspace"><b>kimdevspace</b></a></td>
     <td align="center"><a href="https://github.com/reasonyi"><b>yuri</b></a></td>
     <td align="center"><a href="https://github.com/kro46"><b>kro46</b></a></td>
     <td align="center"><a href="https://github.com/chanu2"><b>chanu2</b></a></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/JuHeeKim-joy"><b>JuHeeKim-joy</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
