@@ -28,21 +28,21 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/kimdevspace"><img src="https://avatars.githubusercontent.com/u/158041455?s=400&u=fc13ed6012858317ec24822efc41b8b022810d7b&v=4" width="130px;" alt=""></a></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/reasonyi"><img src="https://user-images.githubusercontent.com/64270501/229572971-560108f8-af63-444b-b739-5c66785c00d3.jpeg" width="130px;" alt=""></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kimdevspace"><b>kimdevspace</b></a></td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/reasonyi"><b>reasonyi</b></a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
-    <td align="center"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
