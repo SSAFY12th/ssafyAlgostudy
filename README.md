@@ -34,7 +34,7 @@
     <td align="center"></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/kimdevspace"><b>김의중</b></a></td>
+    <td align="center"><a href="https://github.com/kimdevspace"><b>kimdevspace</b></a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
