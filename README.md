@@ -106,7 +106,7 @@ git commit -m "Upload: 이름 / 날짜 / [플랫폼_문제제목_문제번호] /
 
 | Index | 기간 | 알고리즘 분류 | 문제 링크 |
 | :---: | :--------------------: | :----------: | :----------: |
-| 1주차 | 2024.07.18 ~ 2024.07.25 | 삼성 SW 역랑테스트 대비 | 1. [SWEA_VIEW](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1)<br>2. [BOJ_N과M(9)](https://www.acmicpc.net/problem/15663)<br>3. [SWEA_간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=2&pageSize=10&pageIndex=2)
+| 1주차 | 2024.07.18 ~ 2024.07.25 | 삼성 SW 역랑테스트 대비 | 1. [SWEA_VIEW](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1)<br>2. [BOJ_N과M(9)](https://www.acmicpc.net/problem/15663)<br>3. [SWEA_간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=2&pageSize=10&pageIndex=2) 💻
 <br/>
 
 ## 진행 상황
