@@ -109,6 +109,24 @@ git commit -m "Upload: 이름 / 날짜 / [플랫폼_문제제목_문제번호] /
 | 1주차 | 2024.07.18 ~ 2024.07.25 | 삼성 SW 역랑테스트 대비 | 1. [SWEA_VIEW](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1)<br>2. [BOJ_N과M(9)](https://www.acmicpc.net/problem/15663)<br>3. [SWEA_간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=2&pageSize=10&pageIndex=2)
 <br/>
 
+## 진행 상황
+
+| 진행 상황            | 표기  |
+|:-----------------|:----|
+| 해당 주에 완료       | ✅ |
+| 해당 주에 미제출   | ❌ |
+| 해당 주차 종료 이후 보충 | 🔺 |
+
+<br>
+
+|   주차    |      날짜       | 김의중 | 이유리 | 김성태 | 김찬우 | 김주희 |
+|:-------:|:-------------:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| week_01 | 07.18 ~ 07.26 |      |       |      |       |       |
+
+
+
+<br/>
+
 해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
 - https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study/blob/main/README.md
 - https://github.com/KbIt4Study/Algorithm_Study/edit/main/README.md
