@@ -32,6 +32,7 @@
     <td align="center"><a href="https://github.com/kro46"><img src="https://avatars.githubusercontent.com/u/93969720?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/chanu2"><img src="https://avatars.githubusercontent.com/u/96942183?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/JuHeeKim-joy"><img src="https://avatars.githubusercontent.com/u/172460819?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/haesoooo"><img src="https://avatars.githubusercontent.com/u/98267078?v=4" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kimdevspace"><b>kimdevspace</b></a></td>
@@ -39,8 +40,10 @@
     <td align="center"><a href="https://github.com/kro46"><b>kro46</b></a></td>
     <td align="center"><a href="https://github.com/chanu2"><b>chanu2</b></a></td>
     <td align="center"><a href="https://github.com/JuHeeKim-joy"><b>JuHeeKim-joy</b></a></td>
+    <td align="center"><a href="https://github.com/haesoooo"><b>haesoooo</b></a></td>
   </tr>
   <tr> 
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
@@ -120,9 +123,9 @@ git commit -m "Upload: 이름 / 날짜 / [플랫폼_문제제목_문제번호] /
 
 <br>
 
-|   주차    |      날짜       | 김의중 | 이유리 | 김성태 | 김찬우 | 김주희 |
-|:-------:|:-------------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| week_01 | 07.18 ~ 07.26 |      |       |      |       |       |
+|   주차    |      날짜       | 김의중 | 이유리 | 김성태 | 김찬우 | 김주희 | 이해수 
+|:-------:|:-------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+| week_01 | 07.18 ~ 07.26 |      |       |      |       |       |       | 
 
 
 
