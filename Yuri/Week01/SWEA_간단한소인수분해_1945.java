@@ -4,7 +4,7 @@ public class Solution {
 
     static int n;
     static int[] arr = {2, 3, 5, 7, 11};
-    static int[] answer;
+    static int[] answer; 
 
     public static void main(String[] args) {
 

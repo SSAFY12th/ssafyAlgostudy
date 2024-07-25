@@ -51,7 +51,7 @@ public class Main {
             result[cnt] = arr[i];
             visit[i] = true;
             dfs(cnt + 1);
-            visit[i] = false;
+            visit[i] = false; 
         }
     }
 }
