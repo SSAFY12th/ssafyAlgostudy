@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>스터디 장소</td>
-    <td>유성온천역</td>
+    <td>유성온천역<br>한밭대학교</td>
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>플랫폼</td>
-    <td>SWEA<br>BOJ</td>
+    <td>SWEA<br>BOJ<br>프로그래머스</td>
   </tr>
   <tr>
     <td>언어</td>
