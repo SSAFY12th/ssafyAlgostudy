@@ -34,7 +34,7 @@ class Solution
 
                     result += arr[i]-max;
                 }
-            }
+            } 
 
             System.out.println("#"+test_case+" "+result);
 
