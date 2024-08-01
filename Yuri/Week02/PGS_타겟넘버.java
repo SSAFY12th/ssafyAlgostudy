@@ -2,10 +2,9 @@ class Solution {
     
     static int[] numbers;
     static int target;
-    static int answer;
+    static int answer = 0;
     
     public int solution(int[] numbers, int target) {
-        answer = 0;
         this.numbers = numbers;
         this.target = target;
         
@@ -22,6 +21,7 @@ class Solution {
         }
         
         dfs(cnt+1, num-numbers[cnt]);
-        dfs(cnt+1, num+numbers[cnt]); 
+        dfs(cnt+1, num+numbers[cnt]);
+        
     }
 }
