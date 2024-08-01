@@ -55,8 +55,8 @@
 <br/>
 
 ## 📌 스터디 규칙
-- 주 1회 대면, 마감기한 ( 매주 목요일 18:00 ) 까지 3문제 풀기.
-- 대면 스터디 때 1문제 풀기 및 총 4문제 코드 리뷰
+- 주 1회 대면, 마감기한 ( 매주 목요일 18:00 ) 까지 5문제 풀기.
+- 대면 스터디 5문제 코드 리뷰
 - 1문제당 벌금 2000원! ( 스터디 진행비로 사용 예정입니다 ㅎㅎ)
 
 <br/>
@@ -113,22 +113,22 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | :---: | :--------------------: | :----------: | :----------: |
 | 1주차 | 2024.07.18 ~ 2024.07.25 | 삼성 SW 역랑테스트 대비 | 1. [SWEA_VIEW](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=3&pageSize=10&pageIndex=1)<br>2. [BOJ_N과M(9)](https://www.acmicpc.net/problem/15663)<br>3. [SWEA_간단한 소인수분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=JAVA&select-1=2&pageSize=10&pageIndex=2) 💻
 | 2주차 | 2024.07.26 ~ 2024.08.01 | 삼성 SW 역랑테스트 대비 | 1. [BOJ_전쟁-전투_1303](https://www.acmicpc.net/problem/1303) <br>2. [BOJ_연구소_14502](https://www.acmicpc.net/problem/14502) <br>3. [BOJ_NQueen_9663](https://www.acmicpc.net/problem/9663)<br>4. [프로그래머스_타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) 💻
-<br/>
+| 3주차 | 2024.08.02 ~ 2024.08.08 | 삼성 SW 역량테스트 대비 | 1. [BOJ_연산자 끼워넣기_14888](https://www.acmicpc.net/problem/14888) <br>2. [BOJ_로봇 청소기_14503](https://www.acmicpc.net/problem/14503) <br>3. [BOJ_치킨배달_15686](https://www.acmicpc.net/problem/15686) <br>4. [BOJ_토마토_7576](https://www.acmicpc.net/problem/15686)<br>5. [BOJ_안전 영역_2468](https://www.acmicpc.net/problem/15686)
 
 ## 진행 상황
 
 | 진행 상황            | 표기  |
 |:-----------------|:----|
 | 해당 주에 완료       | ✅ |
-| 해당 주에 미제출   | ❌ |
-| 해당 주차 종료 이후 보충 | 🔺 |
+| 해당 주에 미제출   | 🔺 |
 
 <br>
 
 |   주차    |      날짜       |  김의중  |  이유리  |  김성태  |  김찬우  |  김주희  |  이해수 
 |:-------:|:-------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 | week_01 | 07.18 ~ 07.25 |   ✅   |    ✅   |  ✅    |   ✅    |    ✅   |   ✅   |
-| week_02 | 07.26 ~ 08.01 |      |       |     |      |       |      | 
+| week_02 | 07.26 ~ 08.01 |   ✅   |    ✅   |  🔺    |   ✅    |    🔺   |   ✅   |
+| week_03 | 08.02 ~ 08.08 |      |       |      |       |       |      | 
 
 
 
