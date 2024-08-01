@@ -51,7 +51,7 @@
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
-    <td align="center"><img src=""></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
   </tr> 
 </table>
 
