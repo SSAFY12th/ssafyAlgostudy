@@ -33,6 +33,7 @@
     <td align="center"><a href="https://github.com/chanu2"><img src="https://avatars.githubusercontent.com/u/96942183?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/JuHeeKim-joy"><img src="https://avatars.githubusercontent.com/u/172460819?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/haesoooo"><img src="https://avatars.githubusercontent.com/u/98267078?v=4" width="130px;" alt=""></a></td>
+   <td align="center"><a href="상호깃허브"><img src="사진" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kimdevspace"><b>kimdevspace</b></a></td>
@@ -41,6 +42,7 @@
     <td align="center"><a href="https://github.com/chanu2"><b>chanu2</b></a></td>
     <td align="center"><a href="https://github.com/JuHeeKim-joy"><b>JuHeeKim-joy</b></a></td>
     <td align="center"><a href="https://github.com/haesoooo"><b>haesoooo</b></a></td>
+    <td align="center"><a href="깃허브주소"><b>상호</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
@@ -49,6 +51,7 @@
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
+    <td align="center"><img src=""></td>
   </tr> 
 </table>
 
@@ -124,11 +127,11 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 
 <br>
 
-|   주차    |      날짜       |  김의중  |  이유리  |  김성태  |  김찬우  |  김주희  |  이해수 
-|:-------:|:-------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-| week_01 | 07.18 ~ 07.25 |   ✅   |    ✅   |  ✅    |   ✅    |    ✅   |   ✅   |
-| week_02 | 07.26 ~ 08.01 |   ✅   |    ✅   |  🔺    |   ✅    |    🔺   |   ✅   |
-| week_03 | 08.02 ~ 08.08 |      |       |      |       |       |      | 
+|   주차    |      날짜       |  김의중  |  이유리  |  김성태  |  김찬우  |  김주희  |  이해수 | 이상호
+|:-------:|:-------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| week_01 | 07.18 ~ 07.25 |   ✅   |    ✅   |  ✅    |   ✅    |    ✅   |   ✅   |     |
+| week_02 | 07.26 ~ 08.01 |   ✅   |    ✅   |  🔺    |   ✅    |    🔺   |   ✅   |     |
+| week_03 | 08.02 ~ 08.08 |      |       |      |       |       |      |      |
 
 
 
