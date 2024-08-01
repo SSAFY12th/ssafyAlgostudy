@@ -22,7 +22,6 @@ class Solution {
         }
         
         dfs(cnt+1, num-numbers[cnt]);
-        dfs(cnt+1, num+numbers[cnt]);
-        
+        dfs(cnt+1, num+numbers[cnt]); 
     }
 }
