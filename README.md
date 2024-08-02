@@ -33,7 +33,7 @@
     <td align="center"><a href="https://github.com/chanu2"><img src="https://avatars.githubusercontent.com/u/96942183?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/JuHeeKim-joy"><img src="https://avatars.githubusercontent.com/u/172460819?v=4" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/haesoooo"><img src="https://avatars.githubusercontent.com/u/98267078?v=4" width="130px;" alt=""></a></td>
-   <td align="center"><a href="상호깃허브"><img src="사진" width="130px;" alt=""></a></td>
+   <td align="center"><a href="https://github.com/sangholee"><img src="https://avatars.githubusercontent.com/u/121619411?v=4" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kimdevspace"><b>kimdevspace</b></a></td>
@@ -42,7 +42,7 @@
     <td align="center"><a href="https://github.com/chanu2"><b>chanu2</b></a></td>
     <td align="center"><a href="https://github.com/JuHeeKim-joy"><b>JuHeeKim-joy</b></a></td>
     <td align="center"><a href="https://github.com/haesoooo"><b>haesoooo</b></a></td>
-    <td align="center"><a href="깃허브주소"><b>상호</b></a></td>
+    <td align="center"><a href="https://github.com/sangholee235"><b>sangho</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
