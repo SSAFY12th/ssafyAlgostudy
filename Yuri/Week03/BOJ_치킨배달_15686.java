@@ -43,6 +43,7 @@ public class Main {
             // 계산 후 최솟값 구하기.
             int sum = 0;
             int houseMin;
+            // 집마다 모든 치킨집과 비교하여 가장 짧은 치킨거리를 찾은 후, sum에 더해 도시의 치킨 거리를 찾는다.
             for(int i = 0; i < houseIndex; i++) {
                 houseMin = 1000000000;
                 for(int j = 0; j < m; j++) {
@@ -50,16 +51,18 @@ public class Main {
                 }
                 sum+=houseMin;
             }
-            min = Math.min(min, sum);
+            min = Math.min(min, sum);    // 구한 도시의 치킨 거리가 최소값이면 갱신
             return;
         }
 
+        // 조합을 구한다.
         for(int i = position; i <chickenIndex; i++) {
             choice[cnt] = chicken[i];
             dfs(cnt+1, i+1);
         }
     }
 
+    // 두 점과의 거리를 구하는 메서드
     static int cal(int housePosition, int chickenPosition) {
         return Math.abs(house[housePosition].r-choice[chickenPosition].r)
                 + Math.abs(house[housePosition].c-choice[chickenPosition].c);
