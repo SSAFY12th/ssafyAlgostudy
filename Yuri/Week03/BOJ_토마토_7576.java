@@ -24,8 +24,8 @@ public class Main {
             st = new StringTokenizer(br.readLine());
             for(int j  = 0; j < m; j++) {
                 map[i][j] = Integer.parseInt(st.nextToken());
-                if(map[i][j] == 0) yetTomato++;
-                if(map[i][j] == 1) tomato.add(new Point(i, j, 0));
+                if(map[i][j] == 0) yetTomato++;                       // 안익은 토마토의 개수를 셈
+                if(map[i][j] == 1) tomato.add(new Point(i, j, 0));    // 익은 토마토를 미리 큐에 저장
             }
         }
 
@@ -42,18 +42,28 @@ public class Main {
     }
 
     public static void bfs() {
+        
         Point p;
+        int newR, newC;
+        
         while(!tomato.isEmpty()) {
+
             p = tomato.poll();
-            if(p.day == minDay) {
+
+            if(p.day == minDay)
                 minDay++;
-            }
+
             for(int i = 0; i < 4; i++) {
-                if(p.r+dr[i] >= 0 && p.r+dr[i] < n && p.c+dc[i] >= 0 && p.c+dc[i] < m) {
-                    if(map[p.r+dr[i]][p.c+dc[i]] == 0) {
-                        yetTomato--;
-                        map[p.r+dr[i]][p.c+dc[i]] = 1;
-                        tomato.add(new Point(p.r+dr[i], p.c+dc[i], minDay));
+
+                // 계산을 한 번만 하도록 변수에 저장
+                newR = p.r+dr[i];
+                newC = p.c+dc[i];
+
+                if(newR >= 0 && newR < n && newC >= 0 && newC < m) {    // 이동하려는 곳이 맵 안이면
+                    if(map[newR][newC] == 0) {                          // 안익은 토마토라면
+                        yetTomato--;            // 안익은 토마토 개수 -1
+                        map[newR][newC] = 1;    // 맵에서 익은 토마토로 변경
+                        tomato.add(new Point(newR, newC, minDay));
                     }
                 }
             }
