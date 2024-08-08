@@ -19,7 +19,6 @@ public class BOJ14503 {
 
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
-      
         map = new int[N][M];
         st = new StringTokenizer(br.readLine());
         startx = Integer.parseInt(st.nextToken());
