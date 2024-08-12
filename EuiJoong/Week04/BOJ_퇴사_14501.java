@@ -1,39 +1,37 @@
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
 public class Main {
     static int N;
     static int[] time;
     static int[] pay;
+    static StringTokenizer st;
     static int ans = 0;
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        N = sc.nextInt();
-        time = new int[N + 1];
-        pay = new int[N + 1];
-
-        for (int i = 1; i <= N; i++) {
-            time[i] = sc.nextInt();
-            pay[i] = sc.nextInt();
+        N = Integer.parseInt(br.readLine());
+        time = new int[N];
+        pay = new int[N];
+        for (int i = 0; i < N; i++) {
+            st = new StringTokenizer(br.readLine());
+            time[i] = Integer.parseInt(st.nextToken());
+            pay[i] = Integer.parseInt(st.nextToken());
         }
-
-        dfs(1, 0);
+        dfs(0,0);
         System.out.println(ans);
-
     }
-    public static void dfs(int day, int sum) {
-
-        if (day == N + 1) {
-            ans = Math.max(ans , sum);
-            return;
-        }
-        if (day > N) {
+    public static void dfs(int day, int total) {
+        if (day >= N) {
+            ans = Math.max(ans, total);
             return;
         }
 
-        System.out.println("날짜 : " + day +  ", 합계 : " + sum);
-        dfs(day + time[day], sum + pay[day]); // 상담 하는 경우
-        dfs(day + 1, sum); // 상담 건너뛰는 경우
-
+        if (day + time[day] <= N) {
+            dfs(day + time[day], total + pay[day]);
+        }
+        dfs(day + 1, total);
     }
 }
