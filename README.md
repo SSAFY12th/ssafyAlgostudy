@@ -118,6 +118,7 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | 2주차 | 2024.07.26 ~ 2024.08.01 | 삼성 SW 역랑테스트 대비 | 1. [BOJ_전쟁-전투_1303](https://www.acmicpc.net/problem/1303) <br>2. [BOJ_연구소_14502](https://www.acmicpc.net/problem/14502) <br>3. [BOJ_NQueen_9663](https://www.acmicpc.net/problem/9663)<br>4. [프로그래머스_타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 | 3주차 | 2024.08.02 ~ 2024.08.08 | 삼성 SW 역량테스트 대비 | 1. [BOJ_연산자 끼워넣기_14888](https://www.acmicpc.net/problem/14888) <br>2. [BOJ_로봇 청소기_14503](https://www.acmicpc.net/problem/14503) <br>3. [BOJ_치킨배달_15686](https://www.acmicpc.net/problem/15686) <br>4. [BOJ_토마토_7576](https://www.acmicpc.net/problem/7576)<br>5. [BOJ_안전 영역_2468](https://www.acmicpc.net/problem/2468)
 | 4주차 | 2024.08.09 ~ 2024.08.14 | 삼성 SW 역량테스트 대비 | 1. [BOJ_게리맨더링_17471](https://www.acmicpc.net/problem/17471) <br>2. [BOJ_퇴사_14501](https://www.acmicpc.net/problem/14501) <br>3. [BOJ_톱니바퀴_14891](https://www.acmicpc.net/problem/14891) <br>4. [SWEA_최대상금_1244](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE&problemTitle=%EC%B5%9C%EB%8C%80+%EC%83%81%EA%B8%88&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)<br>5. [BOJ_다리 놓기_1010](https://www.acmicpc.net/problem/1010)
+| 4주차 | 2024.08.19 | 삼성 SW 역량테스트 | -
 
 ## 진행 상황
 
@@ -133,7 +134,8 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | week_01 | 07.18 ~ 07.25 |   ✅   |    ✅   |  ✅    |   ✅    |    ✅   |   ✅   |     |
 | week_02 | 07.26 ~ 08.01 |   ✅   |    ✅   |  🔺    |   ✅    |    🔺   |   ✅   |     |
 | week_03 | 08.02 ~ 08.08 |   ✅   |    ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
-| week_04 | 08.09 ~ 08.14 |   ✅  |   ✅   |      |   ✅    |       |   ✅   |   ✅   |
+| week_04 | 08.09 ~ 08.14 |   ✅  |   ✅   |   ✅   |   ✅    |   ✅    |   ✅   |   ✅   |
+| week_05 | SW 역량테스트 08.19 |   -  |   -   |   -   |   -    |   -    |   -   |   -   |
 
 
 <br/>
