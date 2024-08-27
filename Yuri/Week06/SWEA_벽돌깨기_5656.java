@@ -1,11 +1,9 @@
-package swea;
-
 import java.io.*;
 import java.util.*;
 
-public class Num5656 {
+public class Solution {
 
-    // 터트리는 순서가 중요하기 때문에, 순열을 사용한다.
+    // 터트리는 순서가 중요하기 때문에, 중복순열을 사용한다.
 
     static int t, n, w, h, map[][], copyMap[][], blockNum, min;
     static boolean visited[][];
