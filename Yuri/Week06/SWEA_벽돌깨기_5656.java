@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Solution {
 
-    // 터트리는 순서가 중요하기 때문에, 순열을 사용한다.
+    // 터트리는 순서가 중요하기 때문에, 중복순열을 사용한다.
 
     static int t, n, w, h, map[][], copyMap[][], blockNum, min;
     static boolean visited[][];
@@ -54,7 +54,7 @@ public class Solution {
                 copyMap[j] = Arrays.copyOf(map[j], map[j].length);
             int boomNum = 0;
 
-            for (int num : p) { // 뽑은 순열대로 열을 탐색하여 맨 위 블럭을 터트린다.
+            for (int num : p) { // 뽑은 중복순열대로 열을 탐색하여 맨 위 블럭을 터트린다.
                 // 현재 열에서 가장 위의 블럭을 찾는다.
                 Point block = findTopBlock(num);
                 if(block == null)   // 만약 맨 위 블럭이 없다면 (n-1번째까지 전부 0이면) 반복 중지.
@@ -73,13 +73,10 @@ public class Solution {
         if(min == 0)   // 가지치기 (전부 다 터져 더이상 터질게 없는 경우 더 이상 탐색하지 않는다.)
             return;
 
-        // 순열뽑기
+        // 중복 순열뽑기
         for (int i = 0; i < w; i++) {
-            if(visitedP[cnt]) continue;
-            visitedP[cnt] = true;
             p[cnt] = i;
             dfs(cnt+1);
-            visitedP[cnt] = false;
         }
     }
 
