@@ -58,7 +58,7 @@ public class Solution {
                 // 현재 열에서 가장 위의 블럭을 찾는다.
                 Point block = findTopBlock(num);
                 if(block == null)   // 만약 맨 위 블럭이 없다면 (n-1번째까지 전부 0이면) 반복 중지.
-                    break;
+                    continue;
                 // 가장 위의 블럭 터트리기 (연쇄 반응으로 터지는 모든 블럭을 탐색한 후 전부 터트린다.)
                 boomNum += bomb(block);
                 // 남은 블럭 전부 아래로 내리기.
