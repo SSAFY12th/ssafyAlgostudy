@@ -1,55 +1,49 @@
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
-public class Main {
+public class Num10974 {
 
-    static int n;
-    static long num[];
-    static long result = 0;
+    static int n, p[];
 
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-        n = Integer.parseInt(br.readLine());
-        num = new long[n];
+        n = sc.nextInt();
+        p = new int[n];
 
-        StringTokenizer st = new StringTokenizer(br.readLine());
-
-        for (int i = 0; i < n; i++)
-            num[i] = Integer.parseInt(st.nextToken());
-
-        Arrays.sort(num);
-
-        // 음수도 입력될 수 있음.
-        int s, e;
-        long sum;
         for (int i = 0; i < n; i++) {
-            s = 0;
-            e = n-1;
-
-            if(s == i) s++;
-            if(e == i) e--;
-
-            while(s < e) {
-                sum = num[s]+num[e];
-                if(sum == num[i]) {
-                    if(s != i && e != i) {
-                        result++;
-                        break;
-                    }
-                    else if(s == i) s++;
-                    else e--;
-                }
-                else if(sum > num[i]) {
-                    e--;
-                }
-                else {
-                    s++;
-                }
-            }
+            p[i] = i+1;
         }
 
-        System.out.println(result);
-
+        do {
+            for(int n : p)
+                System.out.print(n+" ");
+            System.out.println();
+        } while(np());
     }
+
+    public static boolean np() {
+        int i = n-1;
+        while(i > 0 && p[i-1] >= p[i]) --i;
+
+        if(i == 0) return false;
+
+        int j = n-1;
+        while(p[i-1] >= p[j]) --j;
+
+        swap(i-1, j);
+
+        j = n-1;
+        while(i < j) {
+            swap(i++, j--);
+        }
+
+        return true;
+    }
+
+    public static void swap(int i, int j) {
+        int tmp = p[i];
+        p[i] = p[j];
+        p[j] = tmp;
+    }
+
 }
