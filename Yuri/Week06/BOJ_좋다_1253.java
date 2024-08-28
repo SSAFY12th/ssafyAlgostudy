@@ -33,8 +33,8 @@ public class Main {
             while(s < e) {
                 sum = num[s]+num[e];
                 if(sum == num[i]) {
-                    if(s != i && e != i) {
-                        result++;
+                    if(s != i && e != i) {    // 현재값을 더한게 아니라면 
+                        result++;             // 좋다!
                         break;
                     }
                     else if(s == i) s++;
@@ -50,6 +50,5 @@ public class Main {
         }
 
         System.out.println(result);
-
     }
 }
