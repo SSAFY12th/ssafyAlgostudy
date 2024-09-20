@@ -123,7 +123,7 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | 7주차 | 2024.08.30 ~ 2024.09.05 | 삼성 SW 역량테스트 대비| 1. [SWEA_탈주범 검거_1953](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)<br>2. [SWEA_벌꿀 채취_2115](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu)<br>3. [SWEA_무선 충전_5644](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo)<br>4. [BOJ_아기 상어_16236](https://www.acmicpc.net/problem/16236)<br>5. [BOJ_Puyo Puyo_11559](https://www.acmicpc.net/problem/11559)
 | 8주차 | 2024.09.06 ~ 2024.09.12 | 삼성 SW 역량테스트 대비| 1. [SWEA_핀볼게임_5650](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo) <br> 2. [SWEA_보물상자 비밀번호_5658](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo) <br> 3. [BOJ_파이프 옮기기1_17070](https://www.acmicpc.net/problem/17070)
 | 9주차 | 2024.09.13 ~ 2024.09.19 | 코딩테스트 대비| 1. [SWEA_보급로_1249](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) <br> 2. [BOJ_학교 탐방하기_13418](https://www.acmicpc.net/problem/13418) <br> 3. [SWEA_보호필름_2112](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)
-
+| 10주차 | 2024.09.20 ~ 2024.09.26 | 코딩테스트 대비| 1. [BOJ_최소비용구하기_1916](https://www.acmicpc.net/problem/1916) <br> 2. [BOJ_감시_15683](https://www.acmicpc.net/problem/15683) <br> 3. [BOJ_도시 분할 계획_1647](https://www.acmicpc.net/problem/1647)
 ## 진행 상황
 
 | 진행 상황            | 표기  |
@@ -143,7 +143,8 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | week_06 | 08.23 ~ 08.29 |   🔺  |   🔺   |   🔺   |   🔺    |   🔺    |   🔺   |  ✅  |
 | week_07 | 08.30 ~ 09.05 |  🔺   |   ✅   |   🔺   |   ✅    |   🔺    |  ✅    | ✅ |
 | week_08 | 09.06 ~ 09.12|   ✅  |   ✅  |    🔺  |   🔺    |    🔺    |   ✅   |  ✅  |
-| week_09 | 09.13 ~ 09.19|     |     |      |       |       |      |    |
+| week_09 | 09.13 ~ 09.19|   ✅  |  ✅   |   ✅   |    🔺   |   ✅    |    🔺  |  ✅  |
+| week_10 | 09.20 ~ 09.26|     |     |      |       |       |      |    |
 
 
 <br/>
