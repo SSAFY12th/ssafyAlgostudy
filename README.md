@@ -124,6 +124,7 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | 8주차 | 2024.09.06 ~ 2024.09.12 | 삼성 SW 역량테스트 대비| 1. [SWEA_핀볼게임_5650](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo) <br> 2. [SWEA_보물상자 비밀번호_5658](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo) <br> 3. [BOJ_파이프 옮기기1_17070](https://www.acmicpc.net/problem/17070)
 | 9주차 | 2024.09.13 ~ 2024.09.19 | 코딩테스트 대비| 1. [SWEA_보급로_1249](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) <br> 2. [BOJ_학교 탐방하기_13418](https://www.acmicpc.net/problem/13418) <br> 3. [SWEA_보호필름_2112](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)
 | 10주차 | 2024.09.20 ~ 2024.09.26 | 코딩테스트 대비| 1. [BOJ_최소비용구하기_1916](https://www.acmicpc.net/problem/1916) <br> 2. [BOJ_감시_15683](https://www.acmicpc.net/problem/15683) <br> 3. [BOJ_도시 분할 계획_1647](https://www.acmicpc.net/problem/1647)
+| 11주차 | 2024.09.27 ~ 2024.10.03 | 코딩테스트 대비| 1. [BOJ_다리만들기2_17472](https://www.acmicpc.net/problem/2146) <br> 2. [BOJ_미세먼지안녕_17144](https://www.acmicpc.net/problem/17144) <br> 3. [BOJ_극장 좌석_2302](https://www.acmicpc.net/problem/2302)
 ## 진행 상황
 
 | 진행 상황            | 표기  |
@@ -144,7 +145,8 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | week_07 | 08.30 ~ 09.05 |  🔺   |   ✅   |   🔺   |   ✅    |   🔺    |  ✅    | ✅ |
 | week_08 | 09.06 ~ 09.12|   ✅  |   ✅  |   ✅  |   🔺    |    🔺    |   ✅   |  ✅  |
 | week_09 | 09.13 ~ 09.19|   ✅  |  ✅   |   ✅  |    ✅   |   ✅    |    🔺  |  ✅  |
-| week_10 | 09.20 ~ 09.26|     |     |      |       |       |      |  ✅  |
+| week_10 | 09.20 ~ 09.26|   ✅ |  ✅   |  ✅    |   ✅    |  🔺     |  ✅    |  ✅  |
+| week_10 | 09.27 ~ 10.03|     |     |      |       |       |      |    |
 
 
 <br/>
