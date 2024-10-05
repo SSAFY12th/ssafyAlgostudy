@@ -125,7 +125,7 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | 9주차 | 2024.09.13 ~ 2024.09.19 | 코딩테스트 대비| 1. [SWEA_보급로_1249](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) <br> 2. [BOJ_학교 탐방하기_13418](https://www.acmicpc.net/problem/13418) <br> 3. [SWEA_보호필름_2112](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)
 | 10주차 | 2024.09.20 ~ 2024.09.26 | 코딩테스트 대비| 1. [BOJ_최소비용구하기_1916](https://www.acmicpc.net/problem/1916) <br> 2. [BOJ_감시_15683](https://www.acmicpc.net/problem/15683) <br> 3. [BOJ_도시 분할 계획_1647](https://www.acmicpc.net/problem/1647)
 | 11주차 | 2024.09.27 ~ 2024.10.03 | 코딩테스트 대비| 1. [BOJ_다리만들기2_17472](https://www.acmicpc.net/problem/2146) <br> 2. [BOJ_미세먼지안녕_17144](https://www.acmicpc.net/problem/17144) <br> 3. [BOJ_극장 좌석_2302](https://www.acmicpc.net/problem/2302)
-## 진행 상황
+| 12주차 | 2024.10.04 ~ 2024.10.10 | 코딩테스트 대비| 1. [BOJ_마법사 상어와 토네이도_20057](https://www.acmicpc.net/problem/20057) <br> 2. [BOJ_녹색 옷 입은 애가 젤다지?_4485](https://www.acmicpc.net/problem/4485) <br> 3. [BOJ_숫자 카드_10815](https://www.acmicpc.net/problem/10815)
 
 | 진행 상황            | 표기  |
 |:-----------------|:----|
@@ -146,7 +146,11 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | week_08 | 09.06 ~ 09.12|   ✅  |   ✅  |   ✅  |   🔺    |    🔺    |   ✅   |  ✅  |
 | week_09 | 09.13 ~ 09.19|   ✅  |  ✅   |   ✅  |    ✅   |   ✅    |    🔺  |  ✅  |
 | week_10 | 09.20 ~ 09.26|   ✅ |  ✅   |  ✅    |   ✅    |  🔺     |  ✅    |  ✅  |
-| week_11 | 09.27 ~ 10.03|     |     |      |       |       |      |  ✅  |
+| week_11 | 09.27 ~ 10.03|   ✅  |  ✅   |  ✅    |   🔺  |   ✅    |   ✅   |  ✅  |
+| week_12 | 10.04 ~  10.10 |   -  |   -   |   -   |   -    |   -    |   -   |   -   |
+| week_13 | 10.11 ~ 10.17 |   -  |   -   |   -   |   -    |   -    |   -   |   -   |
+| week_14 | 10.18 ~ 10.24 |   -  |   -   |   -   |   -    |   -    |   -   |   -   |
+| week_15 | 10.25 ~ 10.31 |   -  |   -   |   -   |   -    |   -    |   -   |   -   |
 
 
 <br/>
