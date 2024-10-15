@@ -3,21 +3,19 @@ class Solution {
     public int solution(int[] diffs, int[] times, long limit) {
         int left = 1;
         int right = 0;
-        for (int diff : diffs) {
+        for (int diff : diffs) 
             right = Math.max(right, diff);
-        }
         int mid = left;
         int time_prev = 0;
-        int answer = 0;
         while(left <= right) {
             mid = (right+left)/2;
 
             long time = 0;
             for (int i = 0; i < diffs.length; i++) {
-                if(diffs[i] <= mid) {  // 내 숙련도로 풀이 가능한 경우
+                if(diffs[i] <= mid) { // 내 숙련도로 풀이 가능한 경우
                     time += times[i];
                 } else {              // 내 숙련도로 풀이 불가능한 경우
-                    time += (diffs[i] - mid) * time_prev + times[i] * (diffs[i] - mid);
+                    time += (diffs[i] - mid) * (time_prev + times[i]);
                     time += times[i];
                 }
                 time_prev = times[i];
@@ -29,7 +27,6 @@ class Solution {
                 left = mid+1;
             }
         }
-        answer = left;
-        return answer;
+        return left;
     }
 }
