@@ -1,21 +1,25 @@
 class Solution {
     public int solution(int[] diffs, int[] times, long limit) {
         
-        int max = 1;
-        int min = 100000;
+        int max = 0;
+        int min = 100001;
+        for (int i = 0; i < diffs.length; i++) {
+            max = Math.max(max, diffs[i]);
+            min = Math.min(min, diffs[i]);
+        }
         
-        while (max <= min) {
+        while (min <= max) {
             int level = (max + min) / 2;
             long mid = calTime(diffs, times, level);
             
             if (mid > limit) {
-                max = level + 1;
+                min = level + 1;
             } else {
-                min = level - 1;
+                max = level - 1;
             }
         }
         
-        return max;
+        return min;
     }
     
     public long calTime(int[] diffs, int[] times, int level) {
