@@ -127,7 +127,7 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | 11주차 | 2024.09.27 ~ 2024.10.03 | 코딩테스트 대비| 1. [BOJ_다리만들기2_17472](https://www.acmicpc.net/problem/2146) <br> 2. [BOJ_미세먼지안녕_17144](https://www.acmicpc.net/problem/17144) <br> 3. [BOJ_극장 좌석_2302](https://www.acmicpc.net/problem/2302)
 | 12주차 | 2024.10.04 ~ 2024.10.10 | 코딩테스트 대비| 1. [BOJ_마법사 상어와 토네이도_20057](https://www.acmicpc.net/problem/20057) <br> 2. [BOJ_녹색 옷 입은 애가 젤다지?_4485](https://www.acmicpc.net/problem/4485) <br> 3. [BOJ_숫자 카드_10815](https://www.acmicpc.net/problem/10815)
 | 13주차 | 2024.10.11 ~ 2024.10.17 | 코딩테스트 대비| 1. [PGS_퍼즐게임챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) <br> 2. [PGS_입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238?itm_content=course14743) <br> 3. [BOJ_캐슬디펜스_17135](https://www.acmicpc.net/problem/17135) <br> 4. [BOJ_다리만들기_2146](https://www.acmicpc.net/problem/2146) 
-| 14주차 | 2024.10.18 ~ 2024.10.24 | 코딩테스트 대비| 
+| 14주차 | 2024.10.18 ~ 2024.10.24 | 코딩테스트 대비| 1. [BOJ_전기가 부족해_10423](https://www.acmicpc.net/problem/10423) <br> 2. [PGS_징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) <br> 3. [BOJ_구슬 탈출_13459](https://www.acmicpc.net/problem/13459) <br> 4. [BOJ_점심메뉴_12099](https://www.acmicpc.net/problem/12099)
 | 15주차 | 2024.10.25 ~ 2024.10.31 | 코딩테스트 대비| 
 | 16주차 | 2024.11.01 ~ 2024.11.07 | 코딩테스트 대비| 
 | 17주차 | 2024.11.08 ~ 2024.11.14 | 코딩테스트 대비| 
@@ -153,7 +153,7 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | week_10 | 09.20 ~ 09.26|   ✅ |  ✅   |  ✅    |   ✅    |  🔺     |  ✅    |  ✅  |
 | week_11 | 09.27 ~ 10.03|   ✅  |  ✅   |  ✅    |   🔺  |   ✅    |   🔺   |  ✅  |
 | week_12 | 10.04 ~  10.10 |  ✅  |   ✅   |   ✅   |   ✅    |   ✅    |   ✅   |   ✅   |
-| week_13 | 10.11 ~ 10.17 |   -  |   -   |   -   |   -    |   -    |   -   |   ✅   |
+| week_13 | 10.11 ~ 10.17 |   ✅  |   ✅   |   ✅   |   ✅    |   ✅    |   ✅   |   ✅   |
 | week_14 | 10.18 ~ 10.24 |   -  |   -   |   -   |   -    |   -    |   -   |   -   |
 | week_15 | 10.25 ~ 10.31 |   -  |   -   |   -   |   -    |   -    |   -   |   -   |
 
