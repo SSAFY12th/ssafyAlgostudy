@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class 구슬탈출 {
 	static int N, M;
 	static int[][] map;
 
@@ -35,8 +35,8 @@ public class Main {
 	static Ball blueBallStart;
 	static Ball redBallStart;
 	static boolean[][][][] visited; // max value 10*10*10*10
-	static int[] mN = { -1, 1, 0, 0 }; // 오른쪽으로 기울이기, 왼쪽, 아래쪽, 위쪽
-	static int[] mM = { 0, 0, -1, 1 };
+	static int[] dr = { -1, 1, 0, 0 }; // 상 하 좌 우
+	static int[] dc = { 0, 0, -1, 1 };
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -83,18 +83,18 @@ public class Main {
 				Ball nextBlueBall = new Ball(cur.blueBall.r, cur.blueBall.c);
 				
 				// 빨간 볼 부터
-				while (map[nextRedBall.r + mN[i]][nextRedBall.c + mM[i]] != -1) {
-					nextRedBall.r += mN[i];
-					nextRedBall.c += mM[i];
+				while (map[nextRedBall.r + dr[i]][nextRedBall.c + dc[i]] != -1) {
+					nextRedBall.r += dr[i];
+					nextRedBall.c += dc[i];
 					if (map[nextRedBall.r][nextRedBall.c] == 1) {
 						redExit = true;
 						break;
 					}
 				}
 				// 파란 볼
-				while (map[nextBlueBall.r + mN[i]][nextBlueBall.c + mM[i]] != -1) {
-					nextBlueBall.r += mN[i];
-					nextBlueBall.c += mM[i];
+				while (map[nextBlueBall.r + dr[i]][nextBlueBall.c + dc[i]] != -1) {
+					nextBlueBall.r += dr[i];
+					nextBlueBall.c += dc[i];
 					if (map[nextBlueBall.r][nextBlueBall.c] == 1) {
 						blueExit = true;
 						break;
