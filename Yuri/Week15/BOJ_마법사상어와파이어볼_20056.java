@@ -5,7 +5,6 @@ public class Main {
 
     static int N, M, K;
     static List<FireBall>[][] map;
-    static List<FireBall>[][] newMap;
     static int[] dr = {-1, -1, 0, 1, 1, 1, 0, -1};
     static int[] dc = {0, 1, 1, 1, 0, -1, -1, -1};
 
@@ -85,14 +84,6 @@ public class Main {
     }
 
     public static void happen() {
-
-        newMap = new ArrayList[N][N];
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < N; j++) {
-                newMap[i][j] = new ArrayList<>();
-            }
-        }
-
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
                 if(map[i][j].size() > 0) {
@@ -104,14 +95,11 @@ public class Main {
                         spread(i, j, newFireBall);
                     }
                     else {
-                        newMap[i][j].add(map[i][j].get(0));
-                        newMap[i][j].get(0).moving = false;
+                        map[i][j].get(0).moving = false;
                     }
                 }
             }
         }
-
-        map = newMap;
     }
 
     public static FireBall sumFireBall(int r, int c) {
@@ -139,7 +127,7 @@ public class Main {
 
         int dir = fireBall.d;
         for (int i = 0; i < 4; i++) {
-            newMap[r][c].add(new FireBall(fireBall.m, fireBall.s, dir));
+            map[r][c].add(new FireBall(fireBall.m, fireBall.s, dir));
             dir += 2;
         }
     }
