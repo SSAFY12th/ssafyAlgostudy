@@ -56,7 +56,6 @@ public class Baek1238 {
 
     }
     
-    
     static int dijkstra(int start, int end ) {
         queue.clear();
         int[] d = new int[n+1];
