@@ -13,7 +13,7 @@ public class Main {
         StringBuilder sb = new StringBuilder();
 
         for (int i = 0; i < str.length(); i++) {
-            // 문자열 순회하며 스택에 문자 하나씩 추가
+        
             sb.append(str.charAt(i));
             // 폭발 문자열 검사
             if (sb.length() >= crushStr.length()) {
