@@ -137,7 +137,7 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | 21주차 | 2024.12.06 ~ 2024.12.12 | 코딩테스트 대비| 1. [PGS_문자열압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) <br> 2. [PGS_파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)
 | 22주차 | 2024.12.13 ~ 2024.12.19 | 코딩테스트 대비| 1. [소프티어_출퇴근길](https://softeer.ai/practice/6248) <br> 2. [BOJ_컵라면_1781](https://www.acmicpc.net/problem/1781) <br> 3. [PGS_표병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
 | 23주차 | 2024.12.20 ~ 2024.12.26 | 코딩테스트 대비| 1. [PGS_석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) <br> 2. [PGS_캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) <br> 3. [BOJ_상범빌딩_6593](https://www.acmicpc.net/problem/6593)
-| 24주차 | 2024.12.27 ~ 2025.01.02 | 코딩테스트 대비|
+| 24주차 | 2024.12.27 ~ 2025.01.02 | 코딩테스트 대비| 1. [소프티어_로봇이 지나간 경로](https://softeer.ai/practice/6275) <br> 2. [PGS_네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) <br> 3. [BOJ_전시장_2515](https://www.acmicpc.net/problem/2515)
 | 25주차 | 2025.01.03 ~ 2025.01.09 | 코딩테스트 대비|
 | 26주차 | 2025.01.10 ~ 2025.01.16 | 코딩테스트 대비|
 | 27주차 | 2025.01.17 ~ 2025.01.23 | 코딩테스트 대비|
