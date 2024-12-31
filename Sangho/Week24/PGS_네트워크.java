@@ -30,7 +30,7 @@ class Solution {
         return answer;
     }
     
-    // BFS 탐색
+    // BFS 탐색.
     public static void BFS(int start, int[][] computers) {
         q = new LinkedList<>();
         
