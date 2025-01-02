@@ -28,8 +28,8 @@ public class Main {
         }
 
         start();
-        System.out.println(dirSymbol[startDir]);
         System.out.println((sr + 1) + " " + (sc + 1));
+        System.out.println(dirSymbol[startDir]);
         visited = new boolean[H][W];
         int dir = startDir;
         dfs(sr, sc, dir);
@@ -66,23 +66,45 @@ public class Main {
         }
     }
 
+    /**
+     * 1. 현재 바라보고 있는 방향에서 두 칸 앞으로 갈 수 있는지 확인한다.
+     * 2. 갈 수 있으면 전진(dfs), 갈 수 없다면 방향 회전하여 확인해보기!
+     */
+
     private static void dfs(int r, int c, int dir) {
         visited[r][c] = true;
-        int nr = r + dr[dir] * 2;
-        int nc = c + dc[dir] * 2;
-
-        if (isRange(nr, nc) && map[nr][nc] == '#' && map[r][c] == '#') {
-            visited[nr][nc] = true;
-            System.out.print('A');
-            dfs(nr, nc, dir);
+        if (isForward(r, c, dir)) {
+            System.out.print("A");
+            for (int i = 0; i < 2; i++) {
+                r += dr[dir];
+                c += dc[dir];
+                visited[r][c] = true;
+            }
+            dfs(r, c, dir);
         } else {
-            int rightTurn = (dir + 3) % 4;
-            int leftTurn = (dir + 1) % 4;
-            
+            int leftTurn = (dir + 3) % 4;
+            int rightTurn = (dir + 1) % 4;
+
+            if (isForward(r, c, leftTurn)) {
+                System.out.print("L");
+                dfs(r, c, leftTurn);
+            } else if (isForward(r, c, rightTurn)) {
+                System.out.print("R");
+                dfs(r, c, rightTurn);
+            }
         }
+
 
     }
 
+    private static boolean isForward(int r, int c, int dir) {
+        int nr1 = r + dr[dir];
+        int nc1 = c + dc[dir];
+        int nr2 = r + dr[dir] * 2;
+        int nc2 = c + dc[dir] * 2;
+        if (isRange(nr1, nc1) && isRange(nr2, nc2) && map[nr1][nc1] == '#' && map[nr2][nc2] == '#') return true;
+        return false;
+    }
 
 
     private static boolean isRange(int r, int c) {
