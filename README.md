@@ -138,8 +138,8 @@ git commit -m "이름 / 날짜 / [플랫폼_문제이름_문제번호] / 실행�
 | 22주차 | 2024.12.13 ~ 2024.12.19 | 코딩테스트 대비| 1. [소프티어_출퇴근길](https://softeer.ai/practice/6248) <br> 2. [BOJ_컵라면_1781](https://www.acmicpc.net/problem/1781) <br> 3. [PGS_표병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
 | 23주차 | 2024.12.20 ~ 2024.12.26 | 코딩테스트 대비| 1. [PGS_석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) <br> 2. [PGS_캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) <br> 3. [BOJ_상범빌딩_6593](https://www.acmicpc.net/problem/6593)
 | 24주차 | 2024.12.27 ~ 2025.01.02 | 코딩테스트 대비| 1. [소프티어_로봇이 지나간 경로](https://softeer.ai/practice/6275) <br> 2. [PGS_네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) <br> 3. [BOJ_전시장_2515](https://www.acmicpc.net/problem/2515)
-| 25주차 | 2025.01.03 ~ 2025.01.09 | 코딩테스트 대비| 1. [BOJ_암호만들기_1759](https://www.acmicpc.net/problem/1759) <br> 3. [BOJ_행성연결_16398](https://www.acmicpc.net/problem/16398) <br> 3. [BOJ_퇴사2_15486](https://www.acmicpc.net/problem/15486) <br> 4. [BOJ_전화번호목록_5052](https://www.acmicpc.net/problem/5052)
-| 26주차 | 2025.01.10 ~ 2025.01.16 | 코딩테스트 대비|
+| 25주차 | 2025.01.03 ~ 2025.01.09 | 코딩테스트 대비| 1. [BOJ_암호만들기_1759](https://www.acmicpc.net/problem/1759) <br> 2. [BOJ_행성연결_16398](https://www.acmicpc.net/problem/16398) <br> 3. [BOJ_퇴사2_15486](https://www.acmicpc.net/problem/15486) <br> 4. [BOJ_전화번호목록_5052](https://www.acmicpc.net/problem/5052)
+| 26주차 | 2025.01.10 ~ 2025.01.16 | 코딩테스트 대비| 1. [BOJ_여행가자_1976](https://www.acmicpc.net/problem/1976) <br> 2. [BOJ_미친 아두이노_8972](https://www.acmicpc.net/problem/8972) <br> 3. [BOJ_섞기 수열_2487](https://www.acmicpc.net/problem/2487) <br> 4. [BOJ_병사 배치하기_18353](https://www.acmicpc.net/problem/18353)
 | 27주차 | 2025.01.17 ~ 2025.01.23 | 코딩테스트 대비|
 
 | 진행 상황            | 표기  |
