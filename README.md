@@ -40,7 +40,7 @@
     <td align="center"><a href="https://github.com/reasonyi"><b>yuri</b></a></td>
     <td align="center"><a href="https://github.com/kro46"><b>kro46</b></a></td>
     <td align="center"><a href="https://github.com/chanu2"><b>chanu2</b></a></td>
-    <td align="center"><a href="https://github.com/JuHeeKim-joy"><b>JuHeeKim-joy</b></a></td>
+    <td align="center"><a href="https://github.com/kimjuheee"><b>kimjuheee</b></a></td>
     <td align="center"><a href="https://github.com/haesoooo"><b>haesoooo</b></a></td>
     <td align="center"><a href="https://github.com/sangholee235"><b>sangho</b></a></td>
   </tr>
